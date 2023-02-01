@@ -9,7 +9,7 @@ smtp_server = "smtp.gmail.com"
 
 
 
-sender_email = "adutinyhouse@gmail.com"  # Enter your address
+sender_email = ""  # Enter your address
 receiver_email = ""  # Enter receiver address
 password = ""
 
