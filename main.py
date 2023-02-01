@@ -3,8 +3,8 @@ import imap_tools
 from bs4 import BeautifulSoup
 
 
-my_email = "adutinyhouse@gmail.com"
-my_pass = "jrsdrsdnnskgeogv"
+my_email = ""
+my_pass = ""
 
 mailbox = imap_tools.MailBox('imap.gmail.com').login(my_email, my_pass)
 
