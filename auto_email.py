@@ -10,8 +10,8 @@ smtp_server = "smtp.gmail.com"
 
 
 sender_email = "adutinyhouse@gmail.com"  # Enter your address
-receiver_email = "flowerdisti@gmail.com"  # Enter receiver address
-password = "jrsdrsdnnskgeogv"
+receiver_email = ""  # Enter receiver address
+password = ""
 
 msg: EmailMessage = EmailMessage()
 msg.add_alternative ("""
